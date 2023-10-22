@@ -1,2 +1,2 @@
-# HospitalManagementSystemUI
+# HospitalManagementSystem
 HospitalManagementSystem
